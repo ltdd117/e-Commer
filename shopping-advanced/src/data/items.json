@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 10.29,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 10.99,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Girl",
+    "price": 10.99,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Plane",
+    "price": 10.99,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "price": 10.99,
+    "imgUrl": "/imgs/computer.jpg"
+  }
+]
